@@ -65,6 +65,7 @@ typedef struct s_game
 	char			**copy_map;
 	int				nb_col;
 	int				nb_row;
+	int				test;
 	int				fd;
 	char			*line;
 	int				len_loop;
